@@ -1,8 +1,8 @@
 {
   "name": "ab-bootstrap",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "dependencies": {
-    "bootstrap": "5.0.*",
+    "bootstrap": "5.2.*",
     "popper.js": "1.16.*"
   }
 }
