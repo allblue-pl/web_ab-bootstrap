@@ -7,9 +7,9 @@
 // @import "functions";
 // @import "variables";
 // @import "variables-dark";
-// @import "maps";
-// @import "mixins";
-// @import "utilities";
+@import "../../bootstrap/scss/maps";
+@import "../../bootstrap/scss/mixins";
+@import "../../bootstrap/scss/utilities";
 
 // Layout & components
 @import "../../bootstrap/scss/root";
